@@ -1,0 +1,19 @@
+{
+    "name": "inu to neko",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GrjeQFjxFDm18b87ajAbsipaNNzwuwMpzbw2x1f2V8T1",
+          "share": 100
+        }
+      ]
+    }
+  }
